@@ -13,7 +13,7 @@ Sol: En kucuk elemani secer ve en basa yazdiktan sonra son elemana kadar devam e
 Big-O gösterimini yazınız.
 
 n tane elemanli kumeyi, 1 eleman kalana dek kontrol etmis oldugumuz icin, n+(n-1)+(n-2)...1 den n(n+1)/2=(n^2+n)/2 nin 
-Big-O=n^2 dir.
+ O=(n^2) dir.
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 

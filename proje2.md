@@ -14,9 +14,9 @@ Sol:
 
 Big-O gösterimini yazınız.
 Sol:
-1-n kez kontrol ettigi icin (O)=n,
-2-tek eleman kalana kadar 2 ye boldugu icin (O)=logn,
+1-n kez kontrol ettigi icin O=(n),
+2-tek eleman kalana kadar 2 ye boldugu icin O=(logn),
 
-(O)=nlogn
+O=(nlogn)
 
 https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
